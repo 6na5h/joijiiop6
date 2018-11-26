@@ -1,0 +1,6 @@
+﻿token=NTAzNTY3MzE2MTk0Mjk1ODA4.Dty-gw.RX5Bx9WQCx8Aoc7gVqOltKaOVaw
+owner=319587743699042305
+prefix= 6
+game= 6play
+stayinchannel=true
+songinstatus=true 
